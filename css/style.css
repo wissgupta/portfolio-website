@@ -34,11 +34,11 @@ body {
   }
   
   input, textarea {
-    padding: 10px;
+    padding: 14px; /* previously 10px */
     margin: 10px 0;
     border-radius: 5px;
     border: 1px solid #ccc;
-  }
+  }  
   
   button {
     background-color: #007acc;
